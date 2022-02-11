@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B44A762E27B50B1700DC41AB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44A762D27B50B1700DC41AB /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		B44A761627B50A2100DC41AB /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -30,7 +26,10 @@
 		B44A762727B50A9300DC41AB /* x만큼 간격이 있는 n개의 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "x만큼 간격이 있는 n개의 숫자.swift"; sourceTree = "<group>"; };
 		B44A762927B50AA600DC41AB /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
 		B44A762B27B50ABE00DC41AB /* 하샤드 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "하샤드 수.swift"; sourceTree = "<group>"; };
-		B44A762D27B50B1700DC41AB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B44A762D27B50B1700DC41AB /* 콜라츠 추측.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "콜라츠 추측.swift"; sourceTree = "<group>"; };
+		B4795B5527B64D84000D1713 /* 제일 작은 수 제거하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "제일 작은 수 제거하기.swift"; sourceTree = "<group>"; };
+		B4795B5727B652AA000D1713 /* 정수 제곱근 판별.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수 제곱근 판별.swift"; sourceTree = "<group>"; };
+		B4795B5927B6592D000D1713 /* 정수 내림차순으로 배치하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수 내림차순으로 배치하기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +84,10 @@
 				B44A762727B50A9300DC41AB /* x만큼 간격이 있는 n개의 숫자.swift */,
 				B44A762927B50AA600DC41AB /* 핸드폰 번호 가리기.swift */,
 				B44A762B27B50ABE00DC41AB /* 하샤드 수.swift */,
-				B44A762D27B50B1700DC41AB /* main.swift */,
+				B44A762D27B50B1700DC41AB /* 콜라츠 추측.swift */,
+				B4795B5527B64D84000D1713 /* 제일 작은 수 제거하기.swift */,
+				B4795B5727B652AA000D1713 /* 정수 제곱근 판별.swift */,
+				B4795B5927B6592D000D1713 /* 정수 내림차순으로 배치하기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -149,7 +151,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B44A762E27B50B1700DC41AB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
