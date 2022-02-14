@@ -19,6 +19,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B42AAC7427BA188100BEA97D /* 시저 암호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "시저 암호.swift"; sourceTree = "<group>"; };
+		B42AAC7627BA20DB00BEA97D /* 소수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소수 찾기.swift"; sourceTree = "<group>"; };
 		B44A761827B50A2100DC41AB /* Swift_Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		B44A761B27B50A2100DC41AB /* [2908] 상수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[2908] 상수.swift"; sourceTree = "<group>"; };
 		B44A762427B50A8100DC41AB /* Swift_Algorithm-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift_Algorithm-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -96,6 +98,8 @@
 				B4795B6027B79B0C000D1713 /* 자릿수 더하기.swift */,
 				B4795B6327B79B83000D1713 /* 이상한 문자 만들기.swift */,
 				B4795B6527B7A552000D1713 /* 약수의 합.swift */,
+				B42AAC7427BA188100BEA97D /* 시저 암호.swift */,
+				B42AAC7627BA20DB00BEA97D /* 소수 찾기.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
