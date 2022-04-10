@@ -51,6 +51,8 @@
 		B4795B6527B7A552000D1713 /* 약수의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "약수의 합.swift"; sourceTree = "<group>"; };
 		B4AE949E27FF102400124D79 /* 부족한 금액 계산하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "부족한 금액 계산하기.swift"; sourceTree = "<group>"; };
 		B4AE94A027FFEFB300124D79 /* [1차] 비밀지도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1차] 비밀지도.swift"; sourceTree = "<group>"; };
+		B4AE94A22803205A00124D79 /* 최소직사각형.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소직사각형.swift"; sourceTree = "<group>"; };
+		B4AE94A42803209600124D79 /* 2016년.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2016년.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,8 @@
 				B43CE1DD27E600B7005773EA /* 나머지가 1이 되는 수 찾기.swift */,
 				B4AE949E27FF102400124D79 /* 부족한 금액 계산하기.swift */,
 				B4AE94A027FFEFB300124D79 /* [1차] 비밀지도.swift */,
+				B4AE94A22803205A00124D79 /* 최소직사각형.swift */,
+				B4AE94A42803209600124D79 /* 2016년.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
