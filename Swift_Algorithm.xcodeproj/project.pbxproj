@@ -35,6 +35,7 @@
 		B43CE1DB27E467B3005773EA /* 가운데 글자 가져오기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가운데 글자 가져오기.swift"; sourceTree = "<group>"; };
 		B43CE1DD27E600B7005773EA /* 나머지가 1이 되는 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나머지가 1이 되는 수 찾기.swift"; sourceTree = "<group>"; };
 		B443A084282A521F00CCFDE3 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
+		B443A08E28338BCA00CCFDE3 /* CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicRotation.swift; sourceTree = "<group>"; };
 		B44A761827B50A2100DC41AB /* Swift_Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		B44A761B27B50A2100DC41AB /* [2908] 상수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[2908] 상수.swift"; sourceTree = "<group>"; };
 		B44A762427B50A8100DC41AB /* Swift_Algorithm-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swift_Algorithm-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				B443A084282A521F00CCFDE3 /* BinaryGap.swift */,
+				B443A08E28338BCA00CCFDE3 /* CyclicRotation.swift */,
 			);
 			path = Codility;
 			sourceTree = "<group>";
