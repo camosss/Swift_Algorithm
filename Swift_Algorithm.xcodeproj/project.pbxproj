@@ -58,6 +58,7 @@
 		B4AE94A42803209600124D79 /* 2016년.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2016년.swift"; sourceTree = "<group>"; };
 		B4AE94A928070C4600124D79 /* 두 개 뽑아서 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 개 뽑아서 더하기.swift"; sourceTree = "<group>"; };
 		B4AE94AB28070C7D00124D79 /* 예산.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "예산.swift"; sourceTree = "<group>"; };
+		B4DF6AF92834CDCB00F084E6 /* FrogJmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrogJmp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 				B443A084282A521F00CCFDE3 /* BinaryGap.swift */,
 				B443A08E28338BCA00CCFDE3 /* CyclicRotation.swift */,
 				B443A0922833917A00CCFDE3 /* OddOccurrencesInArray.swift */,
+				B4DF6AF92834CDCB00F084E6 /* FrogJmp.swift */,
 			);
 			path = Codility;
 			sourceTree = "<group>";
